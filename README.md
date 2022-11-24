@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rex-chang
 - 👀 I’m interested in Go
-- 🌱 I’m currently learning how to get money
+- 🌱 I’m currently learning how to get more money
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
